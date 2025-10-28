@@ -1,6 +1,6 @@
-# 📊 Instagram Influencer Analytics Dashboard
+# Instagram Influencer Analytics Dashboard
 
-A **Power BI project** analyzing **Top Instagram Influencers** — exploring metrics like followers, average likes, engagement (60-day), and country distribution.  
+A **Power BI project** analyzing **Top Instagram Influencers**, exploring metrics like followers, average likes, engagement (60-day), and country distribution.  
 This project combines **SQL**, **data cleaning**, and **interactive visualizations** to provide actionable insights for brands and marketing analysts.
 
 ---
